@@ -28,4 +28,4 @@ Kendi izole ortamımda gerçekleştirdiğim ve dokümante ettiğim çalışmalar
 * **Akbank Gençlik Akademisi & Cisco:** Siber Güvenlik Analisti Programı
 * **Coderspace:** Siber Güvenlik Okulu
 
-📫 **Bana Ulaşın:** [LinkedIn Profil Linkin] | [Medium Blog Linkin]
+📫 **Bana Ulaşın:** [www.linkedin.com/in/isa-bostancıoğlu-1a0049135] 
