@@ -11,8 +11,9 @@ Kendi izole ortamımda gerçekleştirdiğim ve dokümante ettiğim çalışmalar
 * **Uç Nokta Adli Bilişimi (DFIR):** PECmd ile Prefetch analizi ve sistemdeki "Execution" kanıtlarının tespiti.
 * **Ağ Trafiği Analizi:** Wireshark ile PCAP üzerinden zararlı trafiğin, C2 bağlantılarının ve anormalliklerin tespiti.
 * **EDR ile Tehdit Avcılığı:** LimaCharlie EDR ve Sliver C2 kullanarak saldırı simülasyonu, süreç ağacı (Parent-Child) analizi ve izolasyon.
-* **SIEM Mimarisi & Log Analizi:** Splunk BOTS veri seti ve Security Onion (ELK) ile log korelasyonu ve alarm/olay incelemesi.
+* **SIEM Mimarisi & Log Analizi:** Splunk Enterprise üzerinde LimaCharlie EDR verilerinin analizi, SPL sorguları ile tehdit avcılığı (Threat Hunting) ve Ngrok tabanlı veri pipeline mimarisi.
 
+  
 ### 🛠️ Araçlar & Teknolojiler
 * **SIEM & EDR:** Splunk, Security Onion (ELK Stack), LimaCharlie
 * **Ağ & Trafik Analizi:** Wireshark, Zeek, Suricata
